@@ -1,2 +1,2 @@
 # afuriza.github.com
-my first static site
+Hello, 世界!
