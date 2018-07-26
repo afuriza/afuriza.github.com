@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
 title : Dio Affriza on GitHub
 description : A repository page.
+/:year/:month/:day/:title:output_ext
